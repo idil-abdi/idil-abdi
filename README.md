@@ -1,4 +1,4 @@
-![Design and Development]([https://github.com/user-attachments/assets/7247b773-1cbe-4c63-801d-6c15c1c02284](https://github.com/idil-abdi/idil-abdi/blob/main/Edil%20Abdiaziz.png))
+![Design and Development](https://github.com/idil-abdi/idil-abdi/blob/main/Edil%20Abdiaziz.png?raw=true)
 
 # Hi there, I'm Edil👋🏾💻.
 
