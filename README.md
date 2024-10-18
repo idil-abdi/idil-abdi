@@ -11,5 +11,4 @@ I'm an aspiring software developer with a passion for creating innovative soluti
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and MySQL 
 -
-PORTFOILO-LINK:
-🌐 https://idil-abdi.github.io/portfolio-page/
+PORTFOILO-LINK: https://idil-abdi.github.io/portfolio-page/
