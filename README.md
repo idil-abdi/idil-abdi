@@ -8,7 +8,7 @@ I'm an aspiring software developer with a passion for creating innovative soluti
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on [this page](https://github.com/idil-abdi/tasty-twist). 
+- 🔭 I’m currently working on [Tasty Twist](https://github.com/idil-abdi/tasty-twist). 
 - 🌱 I’m currently learning Python and MySQL 
 -
 PORTFOILO-LINK: https://idil-abdi.github.io/portfolio-page/
