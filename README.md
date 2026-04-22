@@ -9,4 +9,4 @@ I'm an aspiring software developer with a passion for creating innovative soluti
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
 
 
-PORTFOILO-LINK:
+PORTFOILO-LINK: https://idil-abdi.github.io/edil-abdiaziz/
